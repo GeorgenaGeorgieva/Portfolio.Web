@@ -44,7 +44,8 @@ After installation, run `npm install` and then run `npm start` which will open u
 * `gulp vendor` copies dependencies from node_modules to the vendor directory
 
 You must have npm installed globally in order to use this build environment.
-
+ 
+ 
 ## Bugs and Issues
 
 Have a bug or an issue with this template? [Open a new issue](https://github.com/StartBootstrap/startbootstrap-one-page-wonder/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](https://startbootstrap.com/theme/one-page-wonder/).
